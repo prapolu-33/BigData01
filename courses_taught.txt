@@ -1,0 +1,61 @@
+Mohammad Javad Amiri Courses they teach not listed in Website
+Stanley Bak Courses they teach not listed in Website
+Aruna Balasubramanian courses they teach: CSE 692
+Niranjan Balasubramanian courses they teach: CSE 628
+Ritwik Banerjee Courses they teach not listed in Website
+Michael Bender courses they teach: CSE 150, CSE 303, CSE 350, CSE 373, CSE 385, CSE 495/496, CSE 548, CSE 638, CSE 642
+Xiaojun Bi courses they teach: CSE 518 Foundations of Human Computer Interaction, CSE/ISE/EST 323 Human Computer Interaction
+Barbara Chapman Courses they teach not listed in Website
+Omar Chowdhury Courses they teach not listed in Website
+Rezaul Chowdhury courses they teach: CSE 548, CSE 590, CSE 613, CSE 638, CSE 642
+Samir R. Das courses they teach: CSE 570 (usually in Fall semesters), occasionally CSE 534, CSE 370 and CSE 310
+Ahmad Esmaili courses they teach: ISE 102, ISE 215, CSE 102, CSE 110, CSE 113, CSE 114, CSE 130, CSE 214, CSE 215, CSE 219, CSE 230, CSE 302, CSE 311, HON 111, ITS 102, ISE 302, ISE 305, ISE 311, ISE 321, CSE390 (Mobile App Development)
+Michael Ferdman courses they teach: CSE 502, CSE 602, CSE 506
+Paul Fodor courses they teach: CSE 114, CSE 215, CSE 219, CSE 260, CSE 305, CSE 307, CSE 312, CSE 371, CSE 392, CSE 532, CSE 505, CSE 645, HON 111, ITS 102.
+Pramod Ganapathi courses they teach: SBU 102, CSE/ISE 102, CSE 214, CSE 215, CSE 303, CSE 350, CSE 373, CSE 582, CSE 595 (Algorithmic Problem-Solving)
+Anshul Gandhi courses they teach: CSE 691 (Fall'14): Energy-efficient computing
+Xianfeng Gu courses they teach: CSE 326, CSE328, CSE528, CSE 529/AMS553, CSE 564, CSE 590, CSE 595, CSE 618, CSE 648
+Himanshu Gupta courses they teach: CSE 215, 305, 373, 532
+Jalaa Hoblos Courses they teach not listed in Website
+Shubham Jain Courses they teach not listed in Website
+Christopher Kane Courses they teach not listed in Website
+Arie Kaufman courses they teach: CSE 566, CSE 328, CSE 332, CSE 523, CSE 524, CSE528, CSE 564, CSE 600, CSE 664, CSE 684
+Robert F. Kelly courses they teach: CSE 106, ISE 108, CSE 114, ISE 218, ISE 305, CSE 308, CSE/ISE 312, ISE 320, ISE 331, CSE 333, CSE 336, ISE369/POL369, CSE416
+Dominik Kempa courses they teach: CSE373
+Michael Kifer courses they teach: CSE 305, CSE 306, CSE 532, CSE 632, CSE 674
+Dongyoon Lee Courses they teach not listed in Website
+Haibin Ling courses they teach: CSE527
+Y. Annie Liu courses they teach: CSE 215, CSE/ISE 305, CSE 307, CSE/ISE 308, CSE/ISE 315, CSE 352, CSE/MAT 373, CSE 391, CSE 392, CSE 393, CSE 526, CSE 532, CSE 535, CSE 591, CSE 592, CSE 614, CSE 626, CSE 645, CSE 667, CSE 675, CSE 690, ITS 102.
+Abid M. Malik Courses they teach not listed in Website
+Kevin McDonnell courses they teach: CSE 101, CSE 114, CSE 215, CSE 220, CSE 564
+Richard McKenna courses they teach: CSE 101, CSE 102, CSE 114, CSE 214, CSE 219, CSE 220, CSE 300, CSE 301, CSE 308, CSE 333, CSE 380, CSE 381, CSE 390, ISE 208, ISE 390, ITS 102
+Shuai Mu courses they teach: CSE 535
+Klaus Mueller courses they teach: CSE 323, CSE 332, CSE 337, CSE 523, CSE 524, CSE 564, CSE 577, CSE 612, CSE 648, CSE 690
+Minh Hoai Nguyen courses they teach: Video Analysis (CSE 594), Introductions to Robotics (CSE 525)
+Nick Nikiforakis courses they teach: CSE 508, CSE 509, CSE 361
+Omkant Pandey courses they teach: CSE475
+Supartha Podder courses they teach: In the Spring 2022, Podder will teach a graduate course in Quantum computing at Stony Brook. Previously, at the University of Ottawa, he taught Linear Algebra, and Discrete Mathematics
+Michalis Polychronakis courses they teach: CSE508
+Hong Qin courses they teach: CSE 328, CSE 523, CSE 524, CSE 530, CSE 621, CSE 665
+Amir Rahmati Courses they teach not listed in Website
+C.R. Ramakrishnan courses they teach: CSE 219, CSE 304, CSE 307, CSE 505, CSE 526, CSE 637, CSE 645, CSE 651, CSE 653, CSE 655, CSE 675.02, CSE 691
+I.V. Ramakrishnan courses they teach: CSE 352, CSE 537
+Michael Ryoo Courses they teach not listed in Website
+Dimitris Samaras courses they teach: CSE 327/ESE 358, CSE 378/525, CSE 390, CSE 523/524, CSE 527/627, CSE 592, CSE 601/ESE 559, CSE 615, CSE 656, CSE 681
+Tony Scarlatos courses they teach: CSE 334, CSE 364, CSE 392
+H. Andrew Schwartz Courses they teach not listed in Website
+R. Sekar courses they teach: CSE 304, CSE 307, CSE 408, CSE 504, CSE 508, CSE 509, CSE 548, CSE 608
+Radu Sion courses they teach: CSE 408/508, CSE 409/509, CSE 594, CSE 659, CSE 661, CSE 684, CSE 690
+Steven Skiena courses they teach: CSE 101, CSE 113, CSE 214, CSE 373, CSE 392, CSE 547, CSE 548, CSE 549, CSE 642, CSE 648, CSE 652, CSE 691
+Scott Smolka courses they teach: CSE/ISE 305, CSE 306, CSE 523, CSE 524, CSE 532, CSE 635, CSE 643, CSE 653, CSE 673
+Eugene Stark courses they teach: CSE 160, CSE 260, CSE 219, CSE 220, CSE 230, CSE 306, CSE 307, CSE 523, CSE 526, CSE 540
+Scott Stoller courses they teach: CSE 308, CSE 594, ITS 102
+Yifan Sun courses they teach: CSE 512 (Fall 2020)
+Allen Tannenbaum Courses they teach not listed in Website
+Praveen Tripathi Courses they teach not listed in Website
+Fusheng Wang Courses they teach not listed in Website
+Ting Wang Courses they teach not listed in Website
+Anita Wasilewska courses they teach: CSE 303, CSE 541, CSE 547, CSE 352, CSE 371, CSE 634, CSE 651
+Zhaozheng Yin Courses they teach not listed in Website
+Nengkun Yu Courses they teach not listed in Website
+Erez Zadok courses they teach: CSE 306, CSE 376, CSE 506, CSE 595

@@ -1,0 +1,61 @@
+Mohammad Javad Amiri https://www.cs.stonybrook.edu//people/faculty/MohammadAmiri
+Stanley Bak https://www.cs.stonybrook.edu//people/faculty/StanleyBak
+Aruna Balasubramanian https://www.cs.stonybrook.edu//people/faculty/ArunaBalasubramanian
+Niranjan Balasubramanian https://www.cs.stonybrook.edu//people/faculty/NiranjanBalasubramanian
+Ritwik Banerjee https://www.cs.stonybrook.edu//people/faculty/RitwikBanerjee
+Michael Bender https://www.cs.stonybrook.edu//people/faculty/MichaelBender
+Xiaojun Bi https://www.cs.stonybrook.edu//people/faculty/XiaojunBi
+Barbara Chapman https://www.cs.stonybrook.edu//people/faculty/BarbaraChapman
+Omar Chowdhury https://www.cs.stonybrook.edu//people/faculty/OmarChowdhury
+Rezaul Chowdhury https://www.cs.stonybrook.edu//people/faculty/RezaulChowdhury
+Samir R. Das https://www.cs.stonybrook.edu//people/faculty/SamirDas
+Ahmad Esmaili https://www.cs.stonybrook.edu//people/faculty/AhmadEsmaili
+Michael Ferdman https://www.cs.stonybrook.edu//people/faculty/MichaelFerdman
+Paul Fodor https://www.cs.stonybrook.edu//people/faculty/PaulFodor
+Pramod Ganapathi https://www.cs.stonybrook.edu//people/faculty/PramodGanapathi
+Anshul Gandhi https://www.cs.stonybrook.edu//people/faculty/AnshulGandhi
+Xianfeng Gu https://www.cs.stonybrook.edu//people/faculty/XianfengGu
+Himanshu Gupta https://www.cs.stonybrook.edu//people/faculty/HimanshuGupta
+Jalaa Hoblos https://www.cs.stonybrook.edu//people/faculty/JalaaHoblos
+Shubham Jain https://www.cs.stonybrook.edu//people/faculty/ShubhamJain
+Christopher Kane https://www.cs.stonybrook.edu//people/faculty/ChristopherKane
+Arie Kaufman https://www.cs.stonybrook.edu//people/faculty/ArieKaufman
+Robert F. Kelly https://www.cs.stonybrook.edu//people/faculty/RobertKelly
+Dominik Kempa https://www.cs.stonybrook.edu//people/faculty/DominikKempa
+Michael Kifer https://www.cs.stonybrook.edu//people/faculty/MichaelKifer
+Dongyoon Lee https://www.cs.stonybrook.edu//people/faculty/DongyoonLee
+Haibin Ling https://www.cs.stonybrook.edu//people/faculty/HaibinLing
+Y. Annie Liu https://www.cs.stonybrook.edu//people/faculty/AnnieLiu
+Abid M. Malik https://www.cs.stonybrook.edu//people/faculty/AbidMalik
+Kevin McDonnell https://www.cs.stonybrook.edu//people/faculty/KevinMcDonnell
+Richard McKenna https://www.cs.stonybrook.edu//people/faculty/RichardMcKenna
+Shuai Mu https://www.cs.stonybrook.edu//people/faculty/ShuaiMu
+Klaus Mueller https://www.cs.stonybrook.edu//people/faculty/KlausMueller
+Minh Hoai Nguyen https://www.cs.stonybrook.edu//people/faculty/Minh-HoaiNguyen
+Nick Nikiforakis https://www.cs.stonybrook.edu//people/faculty/NickNikiforakis
+Omkant Pandey https://www.cs.stonybrook.edu//people/faculty/OmkantPandey
+Supartha Podder https://www.cs.stonybrook.edu//people/faculty/SuparthaPodder
+Michalis Polychronakis https://www.cs.stonybrook.edu//people/faculty/MichalisPolychronakis
+Hong Qin https://www.cs.stonybrook.edu//people/faculty/HongQin
+Amir Rahmati https://www.cs.stonybrook.edu//people/faculty/AmirRahmati
+C.R. Ramakrishnan https://www.cs.stonybrook.edu//people/faculty/CRRamakrishnan
+I.V. Ramakrishnan https://www.cs.stonybrook.edu//people/faculty/IVRamakrishnan
+Michael Ryoo https://www.cs.stonybrook.edu//people/faculty/MichaelRyoo
+Dimitris Samaras https://www.cs.stonybrook.edu//people/faculty/DimitrisSamaras
+Tony Scarlatos https://www.cs.stonybrook.edu//people/faculty/TonyScarlatos
+H. Andrew Schwartz https://www.cs.stonybrook.edu//people/faculty/H.%20AndrewSchwartz
+R. Sekar https://www.cs.stonybrook.edu//people/faculty/RSekar
+Radu Sion https://www.cs.stonybrook.edu//people/faculty/RaduSion
+Steven Skiena https://www.cs.stonybrook.edu//people/faculty/StevenSkiena
+Scott Smolka https://www.cs.stonybrook.edu//people/faculty/ScottSmolka
+Eugene Stark https://www.cs.stonybrook.edu//people/faculty/EugeneStark
+Scott Stoller https://www.cs.stonybrook.edu//people/faculty/ScottStoller
+Yifan Sun https://www.cs.stonybrook.edu//people/faculty/YifanSun
+Allen Tannenbaum https://www.cs.stonybrook.edu//people/faculty/AllenTannenbaum
+Praveen Tripathi https://www.cs.stonybrook.edu//people/faculty/PraveenTripathi
+Fusheng Wang https://www.cs.stonybrook.edu//people/faculty/FushengWang
+Ting Wang https://www.cs.stonybrook.edu//people/faculty/TingWang
+Anita Wasilewska https://www.cs.stonybrook.edu//people/faculty/AnitaWasilewska
+Zhaozheng Yin https://www.cs.stonybrook.edu//people/faculty/ZhaozhengYin
+Nengkun Yu https://www.cs.stonybrook.edu//people/faculty/NengkunYu
+Erez Zadok https://www.cs.stonybrook.edu//people/faculty/ErezZadok
